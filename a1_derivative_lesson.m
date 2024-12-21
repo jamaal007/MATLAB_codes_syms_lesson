@@ -14,7 +14,7 @@
 % 2*t^(-2)
 
 % Derivative 
-% Create a script file anf type the following code inti it-
+% Create a script file and type the following code inti it-
 
 syms t
 f = 3*t^2 + 2*t^(-2);
